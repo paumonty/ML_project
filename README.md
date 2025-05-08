@@ -43,4 +43,16 @@ Gracias a este sistema, la empresa puede:
 ✔️ Tomar decisiones basadas en datos
 
 ---
+## 🚀 Próximos pasos
+
+Este modelo se encuentra preparado para ser integrado en procesos reales de toma de decisiones. Algunas aplicaciones prácticas incluyen:
+
+- Incorporación en un CRM para automatizar el scoring de riesgo en tiempo real.
+- Adaptación del modelo con datos internos de una entidad financiera para aumentar la precisión y personalización.
+- Visualización de resultados mediante dashboards interactivos para el equipo de riesgos o dirección.
+- Aplicación del modelo como filtro previo antes de una evaluación manual, ahorrando tiempo y recursos.
+
+Además, el proyecto es escalable y puede evolucionar para incluir nuevas fuentes de datos (por ejemplo, comportamiento digital, historial de pagos en otros productos, etc.).
+
+
 
