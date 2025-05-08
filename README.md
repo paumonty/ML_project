@@ -33,17 +33,6 @@ El dataset utilizado contiene miles de registros de préstamos históricos, con 
 
 ---
 
-## 📈 Resultados del Modelo
-
-El modelo ha alcanzado métricas de rendimiento sólidas sobre un conjunto de prueba independiente:
-
-- Accuracy: **XX%**
-- Precision: **XX%**
-- Recall: **XX%**
-- Matriz de confusión y visualizaciones disponibles en el notebook técnico
-
----
-
 ## 💡 Aplicación práctica
 
 Gracias a este sistema, la empresa puede:
@@ -54,6 +43,4 @@ Gracias a este sistema, la empresa puede:
 ✔️ Tomar decisiones basadas en datos
 
 ---
-
-## 📂 Estructura del proyecto
 
