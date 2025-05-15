@@ -44,4 +44,3 @@ if st.button("Evaluar riesgo"):
         st.success(f"✅ Riesgo bajo. Probabilidad de pago: {prob:.2%}")
     else:
         st.error(f"⚠️ Riesgo alto. Probabilidad de impago: {1 - prob:.2%}")
-
